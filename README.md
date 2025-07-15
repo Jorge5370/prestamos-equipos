@@ -40,12 +40,6 @@ Incluye el archivo `prestamosequipos.sql` que contiene la estructura y datos de 
 
 ---
 
-## 📸 Capturas de pantalla
-
-*Agrega aquí imágenes del sistema en funcionamiento (login, panel, registro, etc.)*
-
----
-
 ## 👨‍💻 Desarrollado por
 
 **Jorge Isaac Camargo**  
