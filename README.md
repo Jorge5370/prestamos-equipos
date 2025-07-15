@@ -51,7 +51,7 @@ Incluye el archivo `prestamosequipos.sql` que contiene la estructura y datos de 
 **Jorge Isaac Camargo**  
 Aprendiz del SENA – Tecnólogo en Análisis y Desarrollo de Software  
 📂 GitHub: [https://github.com/Jorge5370](https://github.com/Jorge5370)  
-📧 jorgepvpfree@gmail.com
+📧 537camargo@gmail.com
 
 ---
 
